@@ -419,3 +419,9 @@
 @@||cervezapicados.cl^
 @@||unity3d.com^
 @@||unity.com^
+
+# Chinnese weas 
+@@||deepseek.com^
+@@||bemtv.cn^
+@@||eli5.cn^
+

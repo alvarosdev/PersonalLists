@@ -22,6 +22,12 @@
 @@||huaweicloud.com^
 @@||battlelog.com^
 @@||mercadoclics.com^
+@@||mercadolibre.com.ar^
+@@||mercadolibre.cl^
+@@||mercadolibre.com^
+@@||mercadopago.com^
+@@||mercadopago.cl^
+@@||mercadopago.com.ar^
 @@||dlpsgame.org^
 @@||dlpsgame.com^
 @@||raw.communitydragon.org^

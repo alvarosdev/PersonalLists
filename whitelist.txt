@@ -426,6 +426,7 @@
 @@||unity3d.com^
 @@||unity.com^
 @@||imagekit.io^
+@@||picados.beer^
 
 # Chinnese weas 
 @@||deepseek.com^
